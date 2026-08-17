@@ -1,87 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16T20:24:50.755012",
-    "dados": {
-      "🎤 JOELMA": {
-        "spotify": 713506,
-        "deezer": 196551,
-        "youtube": 1790000,
-        "instagram": 5864066,
-        "tiktok": 2900000
-      },
-      "🤠 Wesley Safadão": {
-        "spotify": 9813112,
-        "deezer": 4978852,
-        "youtube": 12000000,
-        "instagram": 39963840,
-        "tiktok": 6200000
-      },
-      "👑 Simone Mendes": {
-        "spotify": 12720687,
-        "deezer": 1039120,
-        "youtube": 4730000,
-        "instagram": 40058739,
-        "tiktok": 17600000
-      },
-      "✈️  Xand Avião": {
-        "spotify": 7198010,
-        "deezer": 2323618,
-        "youtube": 0,
-        "instagram": 10075704,
-        "tiktok": 1200000
-      },
-      "☀️  Solange Almeida": {
-        "spotify": 1507526,
-        "deezer": 537907,
-        "youtube": 0,
-        "instagram": 9129987,
-        "tiktok": 1800000
-      },
-      "🌾 Ana Castela": {
-        "spotify": 12647334,
-        "deezer": 1345364,
-        "youtube": 8000000,
-        "instagram": 23600000,
-        "tiktok": 16800000
-      },
-      "🎶 Manu Bahtidão": {
-        "spotify": 3279663,
-        "deezer": 177494,
-        "youtube": 2500000,
-        "instagram": 5000000,
-        "tiktok": 3500000
-      },
-      "🌺 Fafá de Belém": {
-        "spotify": 1156551,
-        "deezer": 65969,
-        "youtube": 0,
-        "instagram": 1000000,
-        "tiktok": 0
-      },
-      "💎 Gaby Amarantos": {
-        "spotify": 448607,
-        "deezer": 179901,
-        "youtube": 0,
-        "instagram": 1000000,
-        "tiktok": 294800
-      },
-      "🎵 Viviane Batidão": {
-        "spotify": 388662,
-        "deezer": 25029,
-        "youtube": 0,
-        "instagram": 1000000,
-        "tiktok": 467600
-      },
-      "⭐ Zaynara": {
-        "spotify": 175863,
-        "deezer": 2915,
-        "youtube": 0,
-        "instagram": 478000,
-        "tiktok": 304100
-      }
-    }
-  },
-  {
     "timestamp": "2026-06-16T22:29:24.921725",
     "dados": {
       "🎤 JOELMA": {
@@ -81965,6 +81883,88 @@
       "🎶 Manu Bahtidão": {
         "spotify": 3279663,
         "deezer": 178701,
+        "youtube": 2500000,
+        "instagram": 5000000,
+        "tiktok": 3600000
+      },
+      "🌺 Fafá de Belém": {
+        "spotify": 1156551,
+        "deezer": 66154,
+        "youtube": 0,
+        "instagram": 1000000,
+        "tiktok": 0
+      },
+      "💎 Gaby Amarantos": {
+        "spotify": 448607,
+        "deezer": 180115,
+        "youtube": 0,
+        "instagram": 1000000,
+        "tiktok": 294800
+      },
+      "🎵 Viviane Batidão": {
+        "spotify": 388662,
+        "deezer": 25253,
+        "youtube": 0,
+        "instagram": 1000000,
+        "tiktok": 486300
+      },
+      "⭐ Zaynara": {
+        "spotify": 175863,
+        "deezer": 2997,
+        "youtube": 0,
+        "instagram": 478000,
+        "tiktok": 313200
+      }
+    }
+  },
+  {
+    "timestamp": "2026-08-17T21:00:21.000728",
+    "dados": {
+      "🎤 JOELMA": {
+        "spotify": 713506,
+        "deezer": 197324,
+        "youtube": 1790000,
+        "instagram": 5864066,
+        "tiktok": 2900000
+      },
+      "🤠 Wesley Safadão": {
+        "spotify": 9813112,
+        "deezer": 5005205,
+        "youtube": 12000000,
+        "instagram": 39963840,
+        "tiktok": 6200000
+      },
+      "👑 Simone Mendes": {
+        "spotify": 12720687,
+        "deezer": 1063427,
+        "youtube": 4730000,
+        "instagram": 40058739,
+        "tiktok": 17700000
+      },
+      "✈️  Xand Avião": {
+        "spotify": 7198010,
+        "deezer": 2333841,
+        "youtube": 0,
+        "instagram": 10075704,
+        "tiktok": 1300000
+      },
+      "☀️  Solange Almeida": {
+        "spotify": 1507526,
+        "deezer": 539249,
+        "youtube": 0,
+        "instagram": 9129987,
+        "tiktok": 1800000
+      },
+      "🌾 Ana Castela": {
+        "spotify": 12647334,
+        "deezer": 1381468,
+        "youtube": 8000000,
+        "instagram": 23600000,
+        "tiktok": 17300000
+      },
+      "🎶 Manu Bahtidão": {
+        "spotify": 3279663,
+        "deezer": 178702,
         "youtube": 2500000,
         "instagram": 5000000,
         "tiktok": 3600000
