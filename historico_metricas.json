@@ -1,87 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T19:29:16.234275",
-    "dados": {
-      "🎤 JOELMA": {
-        "spotify": 713506,
-        "deezer": 196977,
-        "youtube": 1790000,
-        "instagram": 5864066,
-        "tiktok": 2900000
-      },
-      "🤠 Wesley Safadão": {
-        "spotify": 9813112,
-        "deezer": 4994030,
-        "youtube": 12000000,
-        "instagram": 39963840,
-        "tiktok": 6200000
-      },
-      "👑 Simone Mendes": {
-        "spotify": 12720687,
-        "deezer": 1051663,
-        "youtube": 4730000,
-        "instagram": 40058739,
-        "tiktok": 17600000
-      },
-      "✈️  Xand Avião": {
-        "spotify": 7198010,
-        "deezer": 2329758,
-        "youtube": 0,
-        "instagram": 10075704,
-        "tiktok": 1200000
-      },
-      "☀️  Solange Almeida": {
-        "spotify": 1507526,
-        "deezer": 538721,
-        "youtube": 0,
-        "instagram": 9129987,
-        "tiktok": 1800000
-      },
-      "🌾 Ana Castela": {
-        "spotify": 12647334,
-        "deezer": 1364804,
-        "youtube": 8000000,
-        "instagram": 23600000,
-        "tiktok": 17000000
-      },
-      "🎶 Manu Bahtidão": {
-        "spotify": 3279663,
-        "deezer": 178162,
-        "youtube": 2500000,
-        "instagram": 5000000,
-        "tiktok": 3600000
-      },
-      "🌺 Fafá de Belém": {
-        "spotify": 1156551,
-        "deezer": 66063,
-        "youtube": 0,
-        "instagram": 1000000,
-        "tiktok": 0
-      },
-      "💎 Gaby Amarantos": {
-        "spotify": 448607,
-        "deezer": 179994,
-        "youtube": 0,
-        "instagram": 1000000,
-        "tiktok": 294600
-      },
-      "🎵 Viviane Batidão": {
-        "spotify": 388662,
-        "deezer": 25136,
-        "youtube": 0,
-        "instagram": 1000000,
-        "tiktok": 477300
-      },
-      "⭐ Zaynara": {
-        "spotify": 175863,
-        "deezer": 2967,
-        "youtube": 0,
-        "instagram": 478000,
-        "tiktok": 312200
-      }
-    }
-  },
-  {
     "timestamp": "2026-07-19T20:24:45.493137",
     "dados": {
       "🎤 JOELMA": {
@@ -81993,6 +81911,88 @@
       "⭐ Zaynara": {
         "spotify": 175863,
         "deezer": 3012,
+        "youtube": 0,
+        "instagram": 478000,
+        "tiktok": 312800
+      }
+    }
+  },
+  {
+    "timestamp": "2026-09-02T06:18:16.363559",
+    "dados": {
+      "🎤 JOELMA": {
+        "spotify": 713506,
+        "deezer": 197459,
+        "youtube": 1790000,
+        "instagram": 5864066,
+        "tiktok": 2900000
+      },
+      "🤠 Wesley Safadão": {
+        "spotify": 9813112,
+        "deezer": 5010130,
+        "youtube": 12000000,
+        "instagram": 39963840,
+        "tiktok": 6200000
+      },
+      "👑 Simone Mendes": {
+        "spotify": 12720687,
+        "deezer": 1068216,
+        "youtube": 4730000,
+        "instagram": 40058739,
+        "tiktok": 17700000
+      },
+      "✈️  Xand Avião": {
+        "spotify": 7198010,
+        "deezer": 2335802,
+        "youtube": 0,
+        "instagram": 10075704,
+        "tiktok": 1300000
+      },
+      "☀️  Solange Almeida": {
+        "spotify": 1507526,
+        "deezer": 539483,
+        "youtube": 0,
+        "instagram": 9129987,
+        "tiktok": 1800000
+      },
+      "🌾 Ana Castela": {
+        "spotify": 12647334,
+        "deezer": 1388080,
+        "youtube": 8000000,
+        "instagram": 23600000,
+        "tiktok": 17400000
+      },
+      "🎶 Manu Bahtidão": {
+        "spotify": 3279663,
+        "deezer": 178933,
+        "youtube": 2500000,
+        "instagram": 5000000,
+        "tiktok": 3600000
+      },
+      "🌺 Fafá de Belém": {
+        "spotify": 1156551,
+        "deezer": 66185,
+        "youtube": 0,
+        "instagram": 1000000,
+        "tiktok": 0
+      },
+      "💎 Gaby Amarantos": {
+        "spotify": 448607,
+        "deezer": 180174,
+        "youtube": 0,
+        "instagram": 1000000,
+        "tiktok": 294600
+      },
+      "🎵 Viviane Batidão": {
+        "spotify": 388662,
+        "deezer": 25277,
+        "youtube": 0,
+        "instagram": 1000000,
+        "tiktok": 487400
+      },
+      "⭐ Zaynara": {
+        "spotify": 175863,
+        "deezer": 3013,
         "youtube": 0,
         "instagram": 478000,
         "tiktok": 312800
