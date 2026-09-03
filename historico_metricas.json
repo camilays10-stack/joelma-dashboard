@@ -1,87 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T12:29:09.053449",
-    "dados": {
-      "🎤 JOELMA": {
-        "spotify": 713506,
-        "deezer": 196985,
-        "youtube": 1790000,
-        "instagram": 5864066,
-        "tiktok": 2900000
-      },
-      "🤠 Wesley Safadão": {
-        "spotify": 9813112,
-        "deezer": 4994214,
-        "youtube": 12000000,
-        "instagram": 39963840,
-        "tiktok": 6200000
-      },
-      "👑 Simone Mendes": {
-        "spotify": 12720687,
-        "deezer": 1051887,
-        "youtube": 4730000,
-        "instagram": 40058739,
-        "tiktok": 17600000
-      },
-      "✈️  Xand Avião": {
-        "spotify": 7198010,
-        "deezer": 2329827,
-        "youtube": 0,
-        "instagram": 10075704,
-        "tiktok": 1200000
-      },
-      "☀️  Solange Almeida": {
-        "spotify": 1507526,
-        "deezer": 538731,
-        "youtube": 0,
-        "instagram": 9129987,
-        "tiktok": 1800000
-      },
-      "🌾 Ana Castela": {
-        "spotify": 12647334,
-        "deezer": 1365115,
-        "youtube": 8000000,
-        "instagram": 23600000,
-        "tiktok": 17000000
-      },
-      "🎶 Manu Bahtidão": {
-        "spotify": 3279663,
-        "deezer": 178165,
-        "youtube": 2500000,
-        "instagram": 5000000,
-        "tiktok": 3600000
-      },
-      "🌺 Fafá de Belém": {
-        "spotify": 1156551,
-        "deezer": 66064,
-        "youtube": 0,
-        "instagram": 1000000,
-        "tiktok": 0
-      },
-      "💎 Gaby Amarantos": {
-        "spotify": 448607,
-        "deezer": 179996,
-        "youtube": 0,
-        "instagram": 1000000,
-        "tiktok": 294600
-      },
-      "🎵 Viviane Batidão": {
-        "spotify": 388662,
-        "deezer": 25137,
-        "youtube": 0,
-        "instagram": 1000000,
-        "tiktok": 477400
-      },
-      "⭐ Zaynara": {
-        "spotify": 175863,
-        "deezer": 2967,
-        "youtube": 0,
-        "instagram": 478000,
-        "tiktok": 312200
-      }
-    }
-  },
-  {
     "timestamp": "2026-07-20T14:40:19.585423",
     "dados": {
       "🎤 JOELMA": {
@@ -81972,6 +81890,88 @@
       "🌺 Fafá de Belém": {
         "spotify": 1156551,
         "deezer": 66189,
+        "youtube": 0,
+        "instagram": 1000000,
+        "tiktok": 0
+      },
+      "💎 Gaby Amarantos": {
+        "spotify": 448607,
+        "deezer": 180180,
+        "youtube": 0,
+        "instagram": 1000000,
+        "tiktok": 294600
+      },
+      "🎵 Viviane Batidão": {
+        "spotify": 388662,
+        "deezer": 25279,
+        "youtube": 0,
+        "instagram": 1000000,
+        "tiktok": 487300
+      },
+      "⭐ Zaynara": {
+        "spotify": 175863,
+        "deezer": 3014,
+        "youtube": 0,
+        "instagram": 478000,
+        "tiktok": 312700
+      }
+    }
+  },
+  {
+    "timestamp": "2026-09-03T14:36:38.529957",
+    "dados": {
+      "🎤 JOELMA": {
+        "spotify": 713506,
+        "deezer": 197473,
+        "youtube": 1790000,
+        "instagram": 5864066,
+        "tiktok": 2900000
+      },
+      "🤠 Wesley Safadão": {
+        "spotify": 9813112,
+        "deezer": 5010565,
+        "youtube": 12000000,
+        "instagram": 39963840,
+        "tiktok": 6200000
+      },
+      "👑 Simone Mendes": {
+        "spotify": 12720687,
+        "deezer": 1068645,
+        "youtube": 4730000,
+        "instagram": 40058739,
+        "tiktok": 17700000
+      },
+      "✈️  Xand Avião": {
+        "spotify": 7198010,
+        "deezer": 2335965,
+        "youtube": 0,
+        "instagram": 10075704,
+        "tiktok": 1300000
+      },
+      "☀️  Solange Almeida": {
+        "spotify": 1507526,
+        "deezer": 539505,
+        "youtube": 0,
+        "instagram": 9129987,
+        "tiktok": 1800000
+      },
+      "🌾 Ana Castela": {
+        "spotify": 12647334,
+        "deezer": 1388612,
+        "youtube": 8000000,
+        "instagram": 23600000,
+        "tiktok": 17400000
+      },
+      "🎶 Manu Bahtidão": {
+        "spotify": 3279663,
+        "deezer": 178956,
+        "youtube": 2500000,
+        "instagram": 5000000,
+        "tiktok": 3600000
+      },
+      "🌺 Fafá de Belém": {
+        "spotify": 1156551,
+        "deezer": 66190,
         "youtube": 0,
         "instagram": 1000000,
         "tiktok": 0
